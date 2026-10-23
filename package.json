@@ -3,7 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+     "testsignin": "npx playwright test SignIn.spec.js",
+    "testlogin": "npx playwright test DemoBlazeLogin.spec.js",
+    "testdemo": "npx playwright test DemoBlaze.spec.js"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
