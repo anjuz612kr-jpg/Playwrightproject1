@@ -1,0 +1,5 @@
+login button clicked
+deeparavi -user Logged in successfully
+place order button clicked
+user details added
+purchase successful

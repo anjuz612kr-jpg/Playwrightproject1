@@ -1,0 +1,2 @@
+Alert message: User does not exist.
+Entered username and password are invalid
